@@ -1,0 +1,16 @@
+
+.container{
+    width: 40%;
+    min-width: 290px;
+    margin: 0 auto 30px;
+    border: 1px solid #ececec;
+    padding: 20px 10px;
+}
+.userOutput p:first-child{
+    font-size: 12px;
+    line-height:0.9;
+}
+.userOutput p{
+    font-size: 12px;
+    line-height:0.9;
+}
